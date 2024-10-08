@@ -3,7 +3,7 @@ Author- Achint Verma
 <br>
 This Python script implements a simple Admission Management System that allows users to log in, view, add, and delete student records stored in a CSV file. The system provides a menu-driven interface for user interaction, making it easy to manage admission data.
 <br>
-Tech Stack
+Tech Stack:
 <ol>
   <li>Python: The primary programming language used for scripting the application.</li>
   <li>Pandas: Utilized for reading, manipulating, and displaying CSV data.></li>
