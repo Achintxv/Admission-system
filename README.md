@@ -7,7 +7,7 @@ This Python script implements a simple Admission Management System that allows u
 Tech Stack:
 <ol>
   <li>Python: The primary programming language used for scripting the application.</li>
-  <li>Pandas: Utilized for reading, manipulating, and displaying CSV data.></li>
+  <li>Pandas: Utilized for reading, manipulating, and displaying CSV data.</li>
   <li>CSV: Standard library for handling CSV file operations.</li>
 </ol>
 <br>
